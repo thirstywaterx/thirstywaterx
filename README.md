@@ -12,11 +12,11 @@ I'm ThirstyWater, a bottle of water~
 
 ## Operating Systems 🖥️
 
-![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-12-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-Latest-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://badgen.net/badge/Windows/10/0078D6?icon=https://simpleicons.org/icons/windows.svg) ![Android](https://badgen.net/badge/Android/12/3DDC84?icon=https://simpleicons.org/icons/android.svg) ![Ubuntu](https://badgen.net/badge/Ubuntu/Latest/E95420?icon=https://simpleicons.org/icons/ubuntu.svg)
 
 ## Skills 🛠️
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-7%2B-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-Latest-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://badgen.net/badge/HTML/5/E34F26?icon=https://simpleicons.org/icons/html5.svg) ![CSS3](https://badgen.net/badge/CSS/3/1572B6?icon=https://simpleicons.org/icons/css3.svg) ![PHP](https://badgen.net/badge/PHP/7+/777BB4?icon=https://simpleicons.org/icons/php.svg) ![Java](https://badgen.net/badge/Java/Latest/007396?icon=https://simpleicons.org/icons/java.svg)
 
 ## Interests & Goals 🎯
 
