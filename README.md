@@ -1,6 +1,6 @@
 # Welcome
 
-I'm ThirstyWater, a tech enthusiast and developer. This is my personal introduction, showcasing my tech stack and some details about me.
+I'm ThirstyWater, a bottle of water~
 
 ## About Me ℹ️
 
@@ -27,5 +27,3 @@ I'm ThirstyWater, a tech enthusiast and developer. This is my personal introduct
 
 - Enjoy exploring web development and backend technologies  
 - Aiming to build more interesting and practical projects  
-
-Thanks for visiting my profile! Feel free to reach out if you’d like to collaborate or chat! 😊
