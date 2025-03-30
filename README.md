@@ -25,5 +25,5 @@ I'm ThirstyWater, a bottle of water~
 
 ## Interests & Goals 🎯
 
-- Enjoy exploring web development and backend technologies  
-- Aiming to build more interesting and practical projects  
+- Learning through development, growing while building  
+- Mastering more technologies
