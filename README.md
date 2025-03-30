@@ -1,4 +1,4 @@
-# Welcome
+# Welcome 🍞
 
 I'm ThirstyWater, a bottle of water~
 
