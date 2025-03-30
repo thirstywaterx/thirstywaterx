@@ -16,7 +16,7 @@ I'm ThirstyWater, a bottle of water~
 
 ## Skills 🛠️
 
-![HTML5](https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)   ![PHP](https://img.shields.io/badge/PHP-7+-777BB4?style=flat-square&logo=php&logoColor=white)   ![Java](https://img.shields.io/badge/Java-Latest-007396?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=white)   ![PHP](https://img.shields.io/badge/PHP-7+-777BB4?style=flat-square&logo=php&logoColor=white)   ![Java](https://img.shields.io/badge/Java-Latest-007396?style=flat-square&logo=java&logoColor=white)
 
 ## Interests & Goals 🎯
 
