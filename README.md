@@ -12,11 +12,11 @@ I'm ThirstyWater, a bottle of water~
 
 ## Operating Systems 🖥️
 
-![Windows](https://skillicons.dev/icons?i=windows&theme=light) ![Android](https://skillicons.dev/icons?i=android&theme=light) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=light)
+![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=flat-square&logo=windows&logoColor=white)   ![Android](https://img.shields.io/badge/Android-12-3DDC84?style=flat-square&logo=android&logoColor=white)   ![Ubuntu](https://img.shields.io/badge/Ubuntu-Latest-E95420?style=flat-square&logo=ubuntu&logoColor=white)  
 
 ## Skills 🛠️
 
-![HTML5](https://skillicons.dev/icons?i=html&theme=light) ![CSS3](https://skillicons.dev/icons?i=css&theme=light) ![PHP](https://skillicons.dev/icons?i=php&theme=light) ![Java](https://skillicons.dev/icons?i=java&theme=light)
+![HTML5](https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white)   ![CSS3](https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white)   ![PHP](https://img.shields.io/badge/PHP-7+-777BB4?style=flat-square&logo=php&logoColor=white)   ![Java](https://img.shields.io/badge/Java-Latest-007396?style=flat-square&logo=java&logoColor=white)  
 
 ## Interests & Goals 🎯
 
