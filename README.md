@@ -12,11 +12,11 @@ I'm ThirstyWater, a bottle of water~
 
 ## Operating Systems 🖥️
 
-![Windows](https://badgen.net/badge/Windows/10/0078D6?icon=https://simpleicons.org/icons/windows.svg) ![Android](https://badgen.net/badge/Android/12/3DDC84?icon=https://simpleicons.org/icons/android.svg) ![Ubuntu](https://badgen.net/badge/Ubuntu/Latest/E95420?icon=https://simpleicons.org/icons/ubuntu.svg)
+![Windows](https://skillicons.dev/icons?i=windows&theme=light) ![Android](https://skillicons.dev/icons?i=android&theme=light) ![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=light)
 
 ## Skills 🛠️
 
-![HTML5](https://badgen.net/badge/HTML/5/E34F26?icon=https://simpleicons.org/icons/html5.svg) ![CSS3](https://badgen.net/badge/CSS/3/1572B6?icon=https://simpleicons.org/icons/css3.svg) ![PHP](https://badgen.net/badge/PHP/7+/777BB4?icon=https://simpleicons.org/icons/php.svg) ![Java](https://badgen.net/badge/Java/Latest/007396?icon=https://simpleicons.org/icons/java.svg)
+![HTML5](https://skillicons.dev/icons?i=html&theme=light) ![CSS3](https://skillicons.dev/icons?i=css&theme=light) ![PHP](https://skillicons.dev/icons?i=php&theme=light) ![Java](https://skillicons.dev/icons?i=java&theme=light)
 
 ## Interests & Goals 🎯
 
